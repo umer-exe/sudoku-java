@@ -4,8 +4,8 @@ A fully functional **console-based Sudoku game** developed in Java using core OO
 
 Created by:
 
-- **Muhammad Umer Malik**
-- **Mustafa Murtaza Ali**  
+- **Umer**
+- **Mustafa**  
   Course: *Discrete Mathematical Structures*
 
 ---
