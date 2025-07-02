@@ -10,7 +10,7 @@ Created by:
 
 ---
 
-## 🚀 Features
+## Features
 
 - ✅ Dynamic Puzzle Generation (random each time)
 - 🧠 Multiple Difficulty Levels (Beginner to Hard)
@@ -22,7 +22,7 @@ Created by:
 
 ---
 
-## 🧠 Discrete Math Concepts Used
+## Discrete Math Concepts Used
 
 - **Logic & Propositional Statements** – Sudoku rules implemented with quantified logic
 - **Set Theory** – Used for validating grid uniqueness
@@ -32,8 +32,7 @@ Created by:
 
 ---
 
-## 🧪 How to Run
+## How to Run
 
-```bash
 javac -d bin src/*.java
 java -cp bin Main
