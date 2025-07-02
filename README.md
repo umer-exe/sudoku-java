@@ -5,7 +5,8 @@ A fully functional **console-based Sudoku game** developed in Java using core OO
 Created by:
 
 - **Umer**
-- **Mustafa**  
+- **Mustafa**
+  
   Course: *Discrete Mathematical Structures*
 
 ---
@@ -35,4 +36,5 @@ Created by:
 ## How to Run
 
 javac -d bin src/*.java
+
 java -cp bin Main
