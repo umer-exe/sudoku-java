@@ -1,6 +1,6 @@
 # 🧩 Sudoku Java Game
 
-A fully functional **console-based Sudoku game** developed in Java using core OOP concepts and discrete mathematics for a university project.
+A fully functional **console-based Sudoku game** developed in Java using core OOP concepts and discrete mathematics for my university project.
 
 Created by:
 
