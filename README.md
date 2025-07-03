@@ -38,3 +38,12 @@ Created by:
 javac -d bin src/*.java
 
 java -cp bin Main
+
+## What I Learned
+
+- How to apply **discrete mathematics concepts** to solve real-world logic problems
+- Implementing a complete game using **object-oriented design principles**
+- Building and navigating **2D arrays** for grid-based logic
+- Using **recursion and backtracking** for dynamic puzzle generation
+- Managing game state with **custom stack and queue structures**
+- Writing clean, modular code that’s easy to test, extend, and debug
